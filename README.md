@@ -2,6 +2,15 @@
 
 A new Flutter application.
 
+<div style="display:flex;flex-direction:row;">
+  <div style="margin-right: 20px;">
+    <img src="https://github.com/przbadu/FlutterDemo/blob/master/1.jpg" width="200" />
+  </div>
+  <div style="margin-right: 20px;">
+    <img src="https://github.com/przbadu/FlutterDemo/blob/master/2.jpg" width=200 />
+  </div>
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
